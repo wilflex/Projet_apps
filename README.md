@@ -9,3 +9,7 @@ Ce notebook retrace les etapes de la mise en palce de ce projet.
 ![image](https://user-images.githubusercontent.com/87193854/126978421-1934ec79-e876-4a29-b8f2-93175bf55314.png)
 
 2) Je me suis proposé par la suite d'effectuer une simulation d'optimisation de depense avec identification du marché le moins chère + etablissement de facture sur des données simulé
+
+
+3) Penser à integrer les object set pour gerer les item (la logique etant d'eviter le probleme de doublons)
+
